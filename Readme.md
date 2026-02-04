@@ -4,7 +4,7 @@ An end-to-end Machine Learning project that analyzes Flipkart product reviews an
 The project covers the complete ML lifecycle — from data loading and analysis to model training, evaluation, selection, and deployment on AWS EC2 using Flask.
 
 ## 🚀 Live Application  
-[![Click To View Live Demo]](http://13.62.98.75:5000/)
+![Click To View Live Demo](http://13.62.98.75:5000/)
 
 
 ## Project Overview
