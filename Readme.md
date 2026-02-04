@@ -26,7 +26,13 @@ The final solution is deployed as a **web application** accessible via a public 
     STEP 7: Pick best (F1-score)
     STEP 8: Deploy into AWS
 
+## Web Application Screenshots
 
+![Web Application Screenshot](templates/static/image1.png)
+
+![Web Application Screenshot](templates/static/image2.png)
+
+ 
 ## Dataset Description
 
 * **Source**: Flipkart product reviews dataset
