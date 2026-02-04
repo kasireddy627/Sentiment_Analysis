@@ -3,8 +3,9 @@
 An end-to-end Machine Learning project that analyzes Flipkart product reviews and predicts customer sentiment (Positive / Negative).
 The project covers the complete ML lifecycle — from data loading and analysis to model training, evaluation, selection, and deployment on AWS EC2 using Flask.
 
-## 🚀 Live Application  
-![Click To View Live Demo](http://13.62.98.75:5000/)
+## Live Demo Application  
+👉 **[Click here to view the live application](http://13.62.98.75:5000/)**
+
 
 
 ## Project Overview
