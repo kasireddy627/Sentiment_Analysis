@@ -5,7 +5,7 @@ The project covers the complete ML lifecycle — from data loading and analysis 
 
 ## 🚀 Live Application
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](http://13.62.98.75:5000/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](http://13.62.98.75:5000/)
 
 
 ## Project Overview
