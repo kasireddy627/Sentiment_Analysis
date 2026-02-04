@@ -28,9 +28,9 @@ The final solution is deployed as a **web application** accessible via a public 
 
 ## Web Application Screenshots
 
-![Web Application Screenshot](templates/static/image1.png)
+![Web Application Screenshot](templates/Static/image1.png)
 
-![Web Application Screenshot](templates/static/image2.png)
+![Web Application Screenshot](templates/Static/image2.png)
 
  
 ## Dataset Description
