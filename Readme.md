@@ -26,11 +26,13 @@ The final solution is deployed as a **web application** accessible via a public 
     STEP 7: Pick best (F1-score)
     STEP 8: Deploy into AWS
 
+
 ## Web Application Screenshots
 
-![Web Application Screenshot](Sentiment_Analysis/templates/Static/image1.png)
+![Web Application Screenshot](templates/Static/Image1.png)
 
-![Web Application Screenshot](Sentiment_Analysis/templates/Static/image2.png)
+![Web Application Screenshot](templates/Static/Image2.png)
+
 
  
 ## Dataset Description
